@@ -7,7 +7,7 @@
       .filter((w) => w === word.toLowerCase()).length;
   };
 
-//   console.log(countWordOccurrences("I love typescript", "typescript"));
+  console.log(countWordOccurrences("I love typescript", "typescript"));
 
   //
 }
